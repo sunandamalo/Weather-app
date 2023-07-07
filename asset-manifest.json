@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Weather-app/static/css/main.714bb9c8.css",
+    "main.js": "/Weather-app/static/js/main.83f674fa.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Weather-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/weathericons-regular-webfont.svg": "/Weather-app/static/media/weathericons-regular-webfont.1341a15172cec8dae06e.svg",
+    "static/media/weathericons-regular-webfont.eot": "/Weather-app/static/media/weathericons-regular-webfont.bb2ec001c20cf752f852.eot",
+    "static/media/weathericons-regular-webfont.ttf": "/Weather-app/static/media/weathericons-regular-webfont.0942d1e1c447d6ce3ffc.ttf",
+    "static/media/blur-background-1187974.jpg": "/Weather-app/static/media/blur-background-1187974.be6712a4f65733d424d7.jpg",
+    "static/media/weathericons-regular-webfont.woff": "/Weather-app/static/media/weathericons-regular-webfont.371511ddba5fdac0538c.woff",
+    "static/media/weathericons-regular-webfont.woff2": "/Weather-app/static/media/weathericons-regular-webfont.e218aee6928fe3da9ed6.woff2",
+    "index.html": "/Weather-app/index.html",
+    "main.714bb9c8.css.map": "/Weather-app/static/css/main.714bb9c8.css.map",
+    "main.83f674fa.js.map": "/Weather-app/static/js/main.83f674fa.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Weather-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.714bb9c8.css",
+    "static/js/main.83f674fa.js"
+  ]
+}
